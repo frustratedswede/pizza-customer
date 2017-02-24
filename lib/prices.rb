@@ -1,3 +1,5 @@
+require './lib/pizza'
+
 module Prices
   def pizza_prices
     {
